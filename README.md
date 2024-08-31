@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/ShahddElsayed/Social-links-profile/blob/main/social-links-solution.jpg)
+![](https://github.com/ShahddElsayed/Social-links-profile/blob/main/social-links-solution.jpeg)
 
 
 ### Links
