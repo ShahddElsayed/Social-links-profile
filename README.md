@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![]((https://github.com/ShahddElsayed/Social-links-profile/blob/main/social-links-solution.jpg))
 
 
 ### Links
